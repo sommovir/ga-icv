@@ -12,6 +12,6 @@ package it.istc.cnr.gav;
 public class Gav {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("[INFO] gav started");
     }
 }
