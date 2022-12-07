@@ -13,5 +13,6 @@ public class Gav {
 
     public static void main(String[] args) {
         System.out.println("[INFO] gav started");
+        System.out.println("ready for test release");
     }
 }
